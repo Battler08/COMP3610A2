@@ -1,3 +1,4 @@
 .conda/
 data/raw
 .DS_store
+data/

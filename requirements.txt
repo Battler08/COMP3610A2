@@ -1,10 +1,10 @@
-pandas 
+pandas
 polars
 pyarrow
-numpy 
-matplotlib 
-seaborn 
+numpy
+matplotlib
+seaborn
 torch
 scikit-learn
 pathlib
-tensorflow 
+tensorflow
